@@ -2,7 +2,7 @@
 // @name         B站标题链接Excel提取增强版
 // @version      1.25
 // @description  右上角面板 + 收藏夹每个视频左上角复制按钮（修复鼠标悬停按钮时自动隐藏的问题）
-// @author       YourName
+// @author       treemass
 // @match        *://*.bilibili.com/*
 // @grant        GM_setClipboard
 // @grant        GM_setValue
