@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         B站标题链接Excel提取增强版
+// @namespace    http://tampermonkey.net/
 // @version      1.25
-// @description  右上角面板 + 收藏夹每个视频左上角复制按钮（修复鼠标悬停按钮时自动隐藏的问题）
+// @description  右上角面板，\t分隔，粘贴Excel：A标题 B链接(自动超链接) C空白列；收藏夹批量复制；跨域状态同步
 // @author       treemass
+// @license      CC BY-NC 4.0; https://creativecommons.org/licenses/by-nc/4.0/
 // @match        *://*.bilibili.com/*
 // @grant        GM_setClipboard
 // @grant        GM_setValue
